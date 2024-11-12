@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2024-11-12T19:27:32.901Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "2972055150",
+        "path": "outstatic/content/videos/a-good-video.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "videos",
+      "publishedAt": "2024-11-12T19:09:25.079Z",
+      "slug": "a-good-video",
+      "status": "draft",
+      "title": "A good video"
+    }
+  ]
+}
