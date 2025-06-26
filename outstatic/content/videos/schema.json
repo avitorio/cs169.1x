@@ -13,6 +13,14 @@
       "fieldType": "Image",
       "dataType": "image",
       "title": "asdazzz"
+    },
+    "tags": {
+      "description": "My category",
+      "required": true,
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Tags",
+      "values": []
     }
   }
 }
