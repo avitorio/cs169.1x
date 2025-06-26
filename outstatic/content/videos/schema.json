@@ -7,6 +7,12 @@
       "fieldType": "String",
       "dataType": "string",
       "title": "asdasddasd"
+    },
+    "asdazzz": {
+      "required": false,
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "asdazzz"
     }
   }
 }
