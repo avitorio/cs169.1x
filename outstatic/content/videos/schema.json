@@ -26,6 +26,12 @@
           "label": "something"
         }
       ]
+    },
+    "category": {
+      "required": true,
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Category"
     }
   }
 }
