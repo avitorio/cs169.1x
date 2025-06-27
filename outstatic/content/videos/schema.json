@@ -26,7 +26,8 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Categories",
-      "values": []
+      "values": [],
+      "required": false
     }
   }
 }
