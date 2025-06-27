@@ -30,6 +30,10 @@
         {
           "label": "Something",
           "value": "something"
+        },
+        {
+          "value": "cool",
+          "label": "Cool"
         }
       ],
       "required": false
