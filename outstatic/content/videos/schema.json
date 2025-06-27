@@ -38,6 +38,12 @@
       "fieldType": "Boolean",
       "dataType": "boolean",
       "title": "Zombies"
+    },
+    "something": {
+      "description": "Hello",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Something"
     }
   }
 }
