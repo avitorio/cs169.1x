@@ -21,12 +21,6 @@
       "title": "Tags",
       "required": true
     },
-    "something": {
-      "description": "Hello",
-      "fieldType": "Text",
-      "dataType": "string",
-      "title": "Something"
-    },
     "myNew": {
       "description": "Year",
       "fieldType": "Number",
