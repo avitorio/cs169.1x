@@ -37,7 +37,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [
+        {
+          "value": "tagOne",
+          "label": "TagOne"
+        }
+      ]
     }
   }
 }
