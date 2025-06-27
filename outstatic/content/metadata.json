@@ -1,6 +1,6 @@
 {
-  "commit": "6363ba1b28e38a46e80135693c4cfbe6872d6b9a",
-  "generated": "2025-06-27T19:24:16.567Z",
+  "commit": "8ff67287f11ecdec034288367e362a0a1875d5cb",
+  "generated": "2025-06-27T21:54:11.406Z",
   "metadata": [
     {
       "__outstatic": {
@@ -59,6 +59,30 @@
       ],
       "title": "asdasd",
       "zombies": true
+    },
+    {
+      "__outstatic": {
+        "commit": "8ff67287f11ecdec034288367e362a0a1875d5cb",
+        "hash": "1494841220",
+        "path": "outstatic/content/videos/titleherer.mdx"
+      },
+      "asdasddasd": "asdas",
+      "asdazzz": "",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "number": 34,
+      "publishedAt": "2025-06-27T21:35:27.991Z",
+      "slug": "titleherer",
+      "status": "draft",
+      "tags": [
+      ],
+      "textarea": "Hello hello",
+      "title": "Titleherer"
     }
   ]
 }
