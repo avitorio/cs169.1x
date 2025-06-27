@@ -43,6 +43,12 @@
           "label": "TagOne"
         }
       ]
+    },
+    "textarea": {
+      "description": "This is a TextArea",
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Textarea"
     }
   }
 }
