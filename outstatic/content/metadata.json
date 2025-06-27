@@ -1,6 +1,6 @@
 {
-  "commit": "44126fe7fffbf8dd904bcad507eebbb56079e971",
-  "generated": "2025-06-27T17:48:40.597Z",
+  "commit": "9f153806aa563446a26a50c13c95cf4eb0231049",
+  "generated": "2025-06-27T17:48:58.251Z",
   "metadata": [
     {
       "__outstatic": {
@@ -33,8 +33,8 @@
     },
     {
       "__outstatic": {
-        "commit": "44126fe7fffbf8dd904bcad507eebbb56079e971",
-        "hash": "1957306195",
+        "commit": "9f153806aa563446a26a50c13c95cf4eb0231049",
+        "hash": "738815585",
         "path": "outstatic/content/videos/a-good-video.mdx"
       },
       "asdasddasd": "ijnj",
@@ -46,10 +46,6 @@
         {
           "label": "Something",
           "value": "something"
-        },
-        {
-          "label": "Cool",
-          "value": "cool"
         }
       ],
       "category": 2,
