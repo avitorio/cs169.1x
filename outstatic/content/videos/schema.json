@@ -67,6 +67,12 @@
       "fieldType": "Boolean",
       "dataType": "boolean",
       "title": "Boolean"
+    },
+    "date": {
+      "description": "Date",
+      "fieldType": "Date",
+      "dataType": "date",
+      "title": "Date"
     }
   }
 }
