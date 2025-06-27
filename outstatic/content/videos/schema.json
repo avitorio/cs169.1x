@@ -61,6 +61,12 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "Number"
+    },
+    "boolean": {
+      "description": "Boolean",
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "Boolean"
     }
   }
 }
