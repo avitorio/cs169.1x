@@ -1,31 +1,7 @@
 {
-  "commit": "8638d84470f8c50c01e54085fd34c7b6275518ac",
-  "generated": "2025-06-27T17:17:28.893Z",
+  "commit": "4f737745e6c6008deb30773ef7407943b34a975a",
+  "generated": "2025-06-27T17:43:34.490Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "4a873d4db0f2b014a48c22d880aa1046e0d4aa9c",
-        "hash": "2034191616",
-        "path": "outstatic/content/videos/a-good-video.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "category": 2,
-      "collection": "videos",
-      "publishedAt": "2024-11-12T19:09:25.079Z",
-      "slug": "a-good-video",
-      "status": "draft",
-      "tags": [
-        {
-          "label": "something",
-          "value": "something"
-        }
-      ],
-      "title": "A good video",
-      "zombies": true
-    },
     {
       "__outstatic": {
         "commit": "8638d84470f8c50c01e54085fd34c7b6275518ac",
@@ -53,6 +29,34 @@
         }
       ],
       "title": "asdasd",
+      "zombies": true
+    },
+    {
+      "__outstatic": {
+        "commit": "4f737745e6c6008deb30773ef7407943b34a975a",
+        "hash": "2821290772",
+        "path": "outstatic/content/videos/a-good-video.mdx"
+      },
+      "asdasddasd": "ijnj",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "category": 2,
+      "collection": "videos",
+      "languages": [
+      ],
+      "myNew": 87,
+      "publishedAt": "2024-11-12T19:09:25.079Z",
+      "slug": "a-good-video",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "something",
+          "value": "something"
+        }
+      ],
+      "title": "A good video",
       "zombies": true
     }
   ]
