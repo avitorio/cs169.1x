@@ -15,13 +15,6 @@
       "dataType": "image",
       "title": "asdazzz"
     },
-    "tags": {
-      "description": "My category",
-      "fieldType": "Tags",
-      "dataType": "array",
-      "title": "Tags",
-      "required": true
-    },
     "categories": {
       "description": "Categories",
       "fieldType": "Tags",
