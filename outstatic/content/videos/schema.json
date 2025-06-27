@@ -20,12 +20,6 @@
       "dataType": "array",
       "title": "Tags",
       "required": true
-    },
-    "myNew": {
-      "description": "Year",
-      "fieldType": "Number",
-      "dataType": "number",
-      "title": "My new"
     }
   }
 }
