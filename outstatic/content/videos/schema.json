@@ -20,6 +20,13 @@
       "dataType": "array",
       "title": "Tags",
       "required": true
+    },
+    "categories": {
+      "description": "Categories",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Categories",
+      "values": []
     }
   }
 }
