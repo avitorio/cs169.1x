@@ -19,7 +19,8 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [],
+      "required": true
     },
     "category": {
       "required": true,
