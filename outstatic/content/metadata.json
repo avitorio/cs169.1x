@@ -1,6 +1,6 @@
 {
-  "commit": "567ebf8eca4827acb020626521c71a3b7c989665",
-  "generated": "2025-06-27T22:09:08.791Z",
+  "commit": "eab28bb8e5711bdf72c6fcb5660821d275d23bee",
+  "generated": "2025-06-27T22:20:26.505Z",
   "metadata": [
     {
       "__outstatic": {
@@ -62,8 +62,8 @@
     },
     {
       "__outstatic": {
-        "commit": "567ebf8eca4827acb020626521c71a3b7c989665",
-        "hash": "1079405652",
+        "commit": "eab28bb8e5711bdf72c6fcb5660821d275d23bee",
+        "hash": "2193565884",
         "path": "outstatic/content/videos/titleherer.mdx"
       },
       "asdasddasd": "asdas",
@@ -76,6 +76,7 @@
       "categories": [
       ],
       "collection": "videos",
+      "date": "2025-06-24T03:00:00.000Z",
       "number": 34,
       "publishedAt": "2025-06-27T21:35:27.991Z",
       "slug": "titleherer",
