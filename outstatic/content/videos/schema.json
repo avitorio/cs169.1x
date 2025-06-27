@@ -19,7 +19,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": [],
+      "values": [
+        {
+          "value": "whatis",
+          "label": "Whatis"
+        }
+      ],
       "required": true
     },
     "category": {

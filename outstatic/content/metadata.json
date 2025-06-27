@@ -1,6 +1,6 @@
 {
-  "commit": "4a873d4db0f2b014a48c22d880aa1046e0d4aa9c",
-  "generated": "2025-06-27T15:21:17.038Z",
+  "commit": "8638d84470f8c50c01e54085fd34c7b6275518ac",
+  "generated": "2025-06-27T17:17:28.893Z",
   "metadata": [
     {
       "__outstatic": {
@@ -24,6 +24,35 @@
         }
       ],
       "title": "A good video",
+      "zombies": true
+    },
+    {
+      "__outstatic": {
+        "commit": "8638d84470f8c50c01e54085fd34c7b6275518ac",
+        "hash": "1998890959",
+        "path": "outstatic/content/videos/asdasd.mdx"
+      },
+      "asdazzz": "",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "category": 3,
+      "collection": "videos",
+      "languages": [
+      ],
+      "myNew": 0,
+      "publishedAt": "2025-06-27T16:58:56.740Z",
+      "slug": "asdasd",
+      "something": "asdasd",
+      "status": "draft",
+      "tags": [
+        {
+          "label": "Whatis",
+          "value": "whatis"
+        }
+      ],
+      "title": "asdasd",
       "zombies": true
     }
   ]
