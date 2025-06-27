@@ -20,12 +20,7 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": [
-        {
-          "value": "something",
-          "label": "something"
-        }
-      ]
+      "values": []
     },
     "category": {
       "required": true,
