@@ -1,17 +1,18 @@
 {
-  "commit": "ea28613b8da62010424deffde73b2e96f13a4aa5",
-  "generated": "2025-06-27T14:29:50.126Z",
+  "commit": "4a873d4db0f2b014a48c22d880aa1046e0d4aa9c",
+  "generated": "2025-06-27T15:21:17.038Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "ea28613b8da62010424deffde73b2e96f13a4aa5",
-        "hash": "3079557354",
+        "commit": "4a873d4db0f2b014a48c22d880aa1046e0d4aa9c",
+        "hash": "2034191616",
         "path": "outstatic/content/videos/a-good-video.mdx"
       },
       "author": {
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
+      "category": 2,
       "collection": "videos",
       "publishedAt": "2024-11-12T19:09:25.079Z",
       "slug": "a-good-video",
@@ -22,7 +23,8 @@
           "value": "something"
         }
       ],
-      "title": "A good video"
+      "title": "A good video",
+      "zombies": true
     }
   ]
 }
