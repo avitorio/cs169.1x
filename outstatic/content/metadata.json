@@ -1,6 +1,6 @@
 {
-  "commit": "350a8041e6ef9b71da98946563fd491a09da7228",
-  "generated": "2025-06-27T19:12:49.314Z",
+  "commit": "150a783c9270aaa2780d613c949c23f25248edbd",
+  "generated": "2025-06-27T19:23:41.717Z",
   "metadata": [
     {
       "__outstatic": {
@@ -36,8 +36,8 @@
     },
     {
       "__outstatic": {
-        "commit": "350a8041e6ef9b71da98946563fd491a09da7228",
-        "hash": "3970238519",
+        "commit": "150a783c9270aaa2780d613c949c23f25248edbd",
+        "hash": "978362288",
         "path": "outstatic/content/videos/asdasd.mdx"
       },
       "asdasddasd": "asdasd",
@@ -56,10 +56,6 @@
       "something": "asdasd",
       "status": "draft",
       "tags": [
-        {
-          "label": "Something",
-          "value": "something"
-        }
       ],
       "title": "asdasd",
       "zombies": true
