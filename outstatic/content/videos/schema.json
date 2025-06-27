@@ -21,12 +21,6 @@
       "title": "Tags",
       "required": true
     },
-    "category": {
-      "required": true,
-      "fieldType": "Number",
-      "dataType": "number",
-      "title": "Category"
-    },
     "zombies": {
       "required": true,
       "fieldType": "Boolean",
