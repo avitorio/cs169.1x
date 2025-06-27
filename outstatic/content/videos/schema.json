@@ -44,6 +44,12 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Something"
+    },
+    "myNew": {
+      "description": "Year",
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "My new"
     }
   }
 }
