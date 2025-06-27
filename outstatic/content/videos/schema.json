@@ -49,6 +49,12 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Textarea"
+    },
+    "string": {
+      "description": "This is a string",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "String"
     }
   }
 }
