@@ -31,6 +31,13 @@
         }
       ],
       "required": false
+    },
+    "tags": {
+      "description": "hello",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Tags",
+      "values": []
     }
   }
 }
