@@ -20,7 +20,12 @@
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
-      "values": []
+      "values": [
+        {
+          "value": "something",
+          "label": "something"
+        }
+      ]
     }
   }
 }

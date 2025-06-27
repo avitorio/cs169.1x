@@ -1,11 +1,11 @@
 {
-  "commit": "",
-  "generated": "2024-11-12T19:27:32.901Z",
+  "commit": "ea28613b8da62010424deffde73b2e96f13a4aa5",
+  "generated": "2025-06-27T14:29:50.126Z",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "",
-        "hash": "2972055150",
+        "commit": "ea28613b8da62010424deffde73b2e96f13a4aa5",
+        "hash": "3079557354",
         "path": "outstatic/content/videos/a-good-video.mdx"
       },
       "author": {
@@ -16,6 +16,12 @@
       "publishedAt": "2024-11-12T19:09:25.079Z",
       "slug": "a-good-video",
       "status": "draft",
+      "tags": [
+        {
+          "label": "something",
+          "value": "something"
+        }
+      ],
       "title": "A good video"
     }
   ]
