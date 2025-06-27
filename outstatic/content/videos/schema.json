@@ -50,6 +50,13 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "My new"
+    },
+    "languages": {
+      "description": "Idioms",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Languages",
+      "values": []
     }
   }
 }
