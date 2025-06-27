@@ -16,7 +16,6 @@
     },
     "tags": {
       "description": "My category",
-      "required": true,
       "fieldType": "Tags",
       "dataType": "array",
       "title": "Tags",
