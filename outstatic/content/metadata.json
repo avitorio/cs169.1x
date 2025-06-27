@@ -1,6 +1,6 @@
 {
-  "commit": "8dbd6d1faaa3b7573923a32e9e69a463d21f0b8c",
-  "generated": "2025-06-27T21:59:36.632Z",
+  "commit": "567ebf8eca4827acb020626521c71a3b7c989665",
+  "generated": "2025-06-27T22:09:08.791Z",
   "metadata": [
     {
       "__outstatic": {
@@ -62,8 +62,8 @@
     },
     {
       "__outstatic": {
-        "commit": "8dbd6d1faaa3b7573923a32e9e69a463d21f0b8c",
-        "hash": "2357613188",
+        "commit": "567ebf8eca4827acb020626521c71a3b7c989665",
+        "hash": "1079405652",
         "path": "outstatic/content/videos/titleherer.mdx"
       },
       "asdasddasd": "asdas",
@@ -72,6 +72,7 @@
         "name": "Andre Vitorio",
         "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
       },
+      "boolean": true,
       "categories": [
       ],
       "collection": "videos",
