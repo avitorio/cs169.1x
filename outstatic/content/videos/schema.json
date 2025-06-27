@@ -6,7 +6,8 @@
       "required": true,
       "fieldType": "String",
       "dataType": "string",
-      "title": "asdasddasd"
+      "title": "asdasddasd",
+      "description": "asdasd"
     },
     "asdazzz": {
       "required": false,
