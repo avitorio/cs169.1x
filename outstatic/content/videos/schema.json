@@ -32,6 +32,12 @@
       "fieldType": "Number",
       "dataType": "number",
       "title": "Category"
+    },
+    "zombies": {
+      "required": true,
+      "fieldType": "Boolean",
+      "dataType": "boolean",
+      "title": "Zombies"
     }
   }
 }
