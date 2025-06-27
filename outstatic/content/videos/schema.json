@@ -21,11 +21,11 @@
       "title": "Tags",
       "required": true
     },
-    "zombies": {
+    "category": {
       "required": true,
-      "fieldType": "Boolean",
-      "dataType": "boolean",
-      "title": "Zombies"
+      "fieldType": "Number",
+      "dataType": "number",
+      "title": "Category"
     },
     "something": {
       "description": "Hello",
