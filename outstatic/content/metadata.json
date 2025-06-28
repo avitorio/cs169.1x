@@ -1,6 +1,6 @@
 {
-  "commit": "f39c51189abc9c884a5a68c0e629375c6d3ac0d6",
-  "generated": "2025-06-28T16:08:46.941Z",
+  "commit": "fc642dbfb0211b5c5be97150e96513d9ebf3c06e",
+  "generated": "2025-06-28T20:11:00.150Z",
   "metadata": [
     {
       "__outstatic": {
@@ -86,6 +86,30 @@
       ],
       "textarea": "Hello hello myfriend",
       "title": "Titleherer"
+    },
+    {
+      "__outstatic": {
+        "commit": "fc642dbfb0211b5c5be97150e96513d9ebf3c06e",
+        "hash": "2234147750",
+        "path": "outstatic/content/videos/hello.mdx"
+      },
+      "asdasddasd": "asdasd",
+      "asdazzz": "",
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "image": "",
+      "number": 3,
+      "publishedAt": "2025-06-28T19:52:42.477Z",
+      "slug": "hello",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Hello"
     }
   ]
 }
