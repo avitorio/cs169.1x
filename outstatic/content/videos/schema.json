@@ -49,12 +49,6 @@
       "dataType": "string",
       "title": "String"
     },
-    "number": {
-      "description": "This is a number",
-      "fieldType": "Number",
-      "dataType": "number",
-      "title": "Number"
-    },
     "boolean": {
       "description": "Boolean",
       "fieldType": "Boolean",
