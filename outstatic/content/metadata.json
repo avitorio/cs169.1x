@@ -1,6 +1,6 @@
 {
-  "commit": "fc642dbfb0211b5c5be97150e96513d9ebf3c06e",
-  "generated": "2025-06-28T20:11:00.150Z",
+  "commit": "4f8c484f92a0ec2347ea9775efca1c0cfa4f3d87",
+  "generated": "2025-06-28T20:25:32.125Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,11 +89,10 @@
     },
     {
       "__outstatic": {
-        "commit": "fc642dbfb0211b5c5be97150e96513d9ebf3c06e",
-        "hash": "2234147750",
+        "commit": "4f8c484f92a0ec2347ea9775efca1c0cfa4f3d87",
+        "hash": "2001276287",
         "path": "outstatic/content/videos/hello.mdx"
       },
-      "asdasddasd": "asdasd",
       "asdazzz": "",
       "author": {
         "name": "Andre Vitorio",
@@ -103,8 +102,7 @@
       ],
       "collection": "videos",
       "image": "",
-      "number": 3,
-      "publishedAt": "2025-06-28T19:52:42.477Z",
+      "publishedAt": "2025-06-28T20:07:19.075Z",
       "slug": "hello",
       "status": "draft",
       "tags": [
