@@ -2,13 +2,6 @@
   "title": "videos",
   "type": "object",
   "properties": {
-    "asdasddasd": {
-      "required": true,
-      "fieldType": "String",
-      "dataType": "string",
-      "title": "asdasddasd",
-      "description": "asdasd"
-    },
     "asdazzz": {
       "required": false,
       "fieldType": "Image",
