@@ -73,6 +73,12 @@
       "fieldType": "Date",
       "dataType": "date",
       "title": "Date"
+    },
+    "image": {
+      "description": "This is an image",
+      "fieldType": "Image",
+      "dataType": "image",
+      "title": "Image"
     }
   }
 }
