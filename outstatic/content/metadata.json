@@ -1,6 +1,6 @@
 {
-  "commit": "4f8c484f92a0ec2347ea9775efca1c0cfa4f3d87",
-  "generated": "2025-06-28T20:25:32.125Z",
+  "commit": "c24d38db7848d32076c2fb27e289c3e99b1cecc8",
+  "generated": "2025-06-29T18:19:52.128Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,8 +89,8 @@
     },
     {
       "__outstatic": {
-        "commit": "4f8c484f92a0ec2347ea9775efca1c0cfa4f3d87",
-        "hash": "2001276287",
+        "commit": "c24d38db7848d32076c2fb27e289c3e99b1cecc8",
+        "hash": "1502558340",
         "path": "outstatic/content/videos/hello.mdx"
       },
       "asdazzz": "",
@@ -102,7 +102,7 @@
       ],
       "collection": "videos",
       "image": "",
-      "publishedAt": "2025-06-28T20:07:19.075Z",
+      "publishedAt": "2025-06-29T18:01:36.335Z",
       "slug": "hello",
       "status": "draft",
       "tags": [
