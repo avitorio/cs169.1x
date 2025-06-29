@@ -1,6 +1,6 @@
 {
-  "commit": "e657d9864f9f21a275436bb8c3ac4d8a32148397",
-  "generated": "2025-06-29T18:31:49.263Z",
+  "commit": "aceaa8c3f0c32d78a83ffbd0a7645233211f2f1a",
+  "generated": "2025-06-29T18:35:05.872Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,8 +89,8 @@
     },
     {
       "__outstatic": {
-        "commit": "e657d9864f9f21a275436bb8c3ac4d8a32148397",
-        "hash": "989342562",
+        "commit": "aceaa8c3f0c32d78a83ffbd0a7645233211f2f1a",
+        "hash": "853585958",
         "path": "outstatic/content/videos/hello.mdx"
       },
       "asdazzz": "",
