@@ -22,11 +22,5 @@
     "slug": "lovem",
     "path": "outstatic/content/lovem",
     "children": []
-  },
-  {
-    "title": "Mystuff",
-    "slug": "mystuff",
-    "path": "outstatic/content/mystuff",
-    "children": []
   }
 ]
