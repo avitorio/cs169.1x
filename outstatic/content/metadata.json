@@ -1,6 +1,6 @@
 {
-  "commit": "5037ba2f038f6a41c83d9a76e6d02902dc937d1e",
-  "generated": "2025-06-30T19:24:26.092Z",
+  "commit": "df9de1287d74eac0d70ed0b08f0907135a6aa56f",
+  "generated": "2025-06-30T19:26:55.720Z",
   "metadata": [
     {
       "__outstatic": {
@@ -180,6 +180,26 @@
       "tags": [
       ],
       "title": "asd"
+    },
+    {
+      "__outstatic": {
+        "commit": "df9de1287d74eac0d70ed0b08f0907135a6aa56f",
+        "hash": "1030306902",
+        "path": "outstatic/content/videos/heyo.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-06-30T19:08:33.172Z",
+      "slug": "heyo",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Heyo"
     }
   ]
 }
