@@ -22,5 +22,11 @@
     "slug": "gigs",
     "path": "outstatic/content/gigs",
     "children": []
+  },
+  {
+    "title": "weird",
+    "slug": "weird",
+    "path": "outstatic/content/weird",
+    "children": []
   }
 ]
