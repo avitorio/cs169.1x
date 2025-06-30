@@ -16,11 +16,5 @@
     "slug": "mycol",
     "path": "outstatic/content/mycol",
     "children": []
-  },
-  {
-    "title": "Lovem",
-    "slug": "lovem",
-    "path": "outstatic/content/lovem",
-    "children": []
   }
 ]
