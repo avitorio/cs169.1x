@@ -1,6 +1,6 @@
 {
-  "commit": "193c1f1316c1ca4cab5cdf5733e7ff843bc22969",
-  "generated": "2025-06-30T19:30:30.259Z",
+  "commit": "846b373b222e97bd5e1c440305cba3578a234468",
+  "generated": "2025-06-30T19:35:04.993Z",
   "metadata": [
     {
       "__outstatic": {
@@ -216,6 +216,26 @@
       "tags": [
       ],
       "title": "Summer"
+    },
+    {
+      "__outstatic": {
+        "commit": "846b373b222e97bd5e1c440305cba3578a234468",
+        "hash": "823370493",
+        "path": "outstatic/content/videos/the-life.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-06-30T19:16:56.796Z",
+      "slug": "the-life",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "The life"
     }
   ]
 }
