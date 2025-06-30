@@ -1,6 +1,6 @@
 {
-  "commit": "20f8e256b4aaa4621b58839cc3e67af45228aa9e",
-  "generated": "2025-06-30T03:57:06.037Z",
+  "commit": "8eb84197f24e0ed15599e11ef3e1133949212a55",
+  "generated": "2025-06-30T19:19:42.894Z",
   "metadata": [
     {
       "__outstatic": {
@@ -140,6 +140,26 @@
       "slug": "mylove",
       "status": "draft",
       "title": "MYlove"
+    },
+    {
+      "__outstatic": {
+        "commit": "8eb84197f24e0ed15599e11ef3e1133949212a55",
+        "hash": "3403722540",
+        "path": "outstatic/content/videos/hey.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-06-30T19:01:29.299Z",
+      "slug": "hey",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Hey"
     }
   ]
 }
