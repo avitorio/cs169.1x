@@ -1,6 +1,6 @@
 {
-  "commit": "df9de1287d74eac0d70ed0b08f0907135a6aa56f",
-  "generated": "2025-06-30T19:26:55.720Z",
+  "commit": "193c1f1316c1ca4cab5cdf5733e7ff843bc22969",
+  "generated": "2025-06-30T19:30:30.259Z",
   "metadata": [
     {
       "__outstatic": {
@@ -200,6 +200,22 @@
       "tags": [
       ],
       "title": "Heyo"
+    },
+    {
+      "__outstatic": {
+        "commit": "193c1f1316c1ca4cab5cdf5733e7ff843bc22969",
+        "hash": "2840638998",
+        "path": "outstatic/content/videos/summer.mdx"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-06-30T19:12:25.591Z",
+      "slug": "summer",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Summer"
     }
   ]
 }
