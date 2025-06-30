@@ -1,6 +1,6 @@
 {
-  "commit": "875cd76a671e437ae947917062f63097266c4735",
-  "generated": "2025-06-30T03:54:19.474Z",
+  "commit": "56f7caf4246a8d351fcf9f816cfd74233299988a",
+  "generated": "2025-06-30T03:54:46.322Z",
   "metadata": [
     {
       "__outstatic": {
@@ -108,6 +108,22 @@
       "tags": [
       ],
       "title": "Hello"
+    },
+    {
+      "__outstatic": {
+        "commit": "56f7caf4246a8d351fcf9f816cfd74233299988a",
+        "hash": "2306385169",
+        "path": "outstatic/content/mycol/something.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "mycol",
+      "publishedAt": "2025-06-30T03:36:27.243Z",
+      "slug": "something",
+      "status": "draft",
+      "title": "Something "
     }
   ]
 }
