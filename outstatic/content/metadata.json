@@ -1,6 +1,6 @@
 {
-  "commit": "96c82d67be385ea4f7b366c8991df3d2ea2ffc3d",
-  "generated": "2025-06-30T19:42:04.259Z",
+  "commit": "c7746782e5beaeb32374278e10dc11853498d559",
+  "generated": "2025-06-30T19:42:35.771Z",
   "metadata": [
     {
       "__outstatic": {
@@ -236,6 +236,26 @@
       "tags": [
       ],
       "title": "The life"
+    },
+    {
+      "__outstatic": {
+        "commit": "c7746782e5beaeb32374278e10dc11853498d559",
+        "hash": "551874558",
+        "path": "outstatic/content/videos/life-is-good.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-06-30T19:24:23.907Z",
+      "slug": "life-is-good",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Life is good"
     }
   ]
 }
