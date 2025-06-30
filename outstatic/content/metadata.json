@@ -1,6 +1,6 @@
 {
-  "commit": "0c6a5dc385f0575f9633b8a20055d69e15ea3c93",
-  "generated": "2025-06-30T19:41:35.634Z",
+  "commit": "96c82d67be385ea4f7b366c8991df3d2ea2ffc3d",
+  "generated": "2025-06-30T19:42:04.259Z",
   "metadata": [
     {
       "__outstatic": {
@@ -219,8 +219,8 @@
     },
     {
       "__outstatic": {
-        "commit": "0c6a5dc385f0575f9633b8a20055d69e15ea3c93",
-        "hash": "2971569820",
+        "commit": "96c82d67be385ea4f7b366c8991df3d2ea2ffc3d",
+        "hash": "4069499625",
         "path": "outstatic/content/videos/the-life.mdx"
       },
       "author": {
