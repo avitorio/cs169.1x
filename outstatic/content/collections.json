@@ -28,5 +28,11 @@
     "slug": "weird",
     "path": "outstatic/content/weird",
     "children": []
+  },
+  {
+    "title": "Dommer",
+    "slug": "dommer",
+    "path": "outstatic/content/dommer",
+    "children": []
   }
 ]
