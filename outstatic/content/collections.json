@@ -10,5 +10,11 @@
     "slug": "lovely",
     "path": "outstatic/content/lovely",
     "children": []
+  },
+  {
+    "title": "Mycol",
+    "slug": "mycol",
+    "path": "outstatic/content/mycol",
+    "children": []
   }
 ]
