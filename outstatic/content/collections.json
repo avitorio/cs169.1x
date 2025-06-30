@@ -34,5 +34,11 @@
     "slug": "dommer",
     "path": "outstatic/content/dommer",
     "children": []
+  },
+  {
+    "title": "Dawn",
+    "slug": "dawn",
+    "path": "outstatic/content/dawn",
+    "children": []
   }
 ]
