@@ -1,6 +1,11 @@
 {
-  "title": "Dawn",
-  "slug": "dawn",
+  "title": "dawn",
   "type": "object",
-  "properties": {}
+  "properties": {
+    "somber": {
+      "fieldType": "Text",
+      "dataType": "string",
+      "title": "Somber"
+    }
+  }
 }
