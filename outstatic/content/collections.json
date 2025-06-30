@@ -4,5 +4,11 @@
     "slug": "videos",
     "path": "outstatic/content/videos",
     "children": []
+  },
+  {
+    "title": "Lovely",
+    "slug": "lovely",
+    "path": "outstatic/content/lovely",
+    "children": []
   }
 ]
