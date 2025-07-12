@@ -1,6 +1,6 @@
 {
-  "commit": "c7746782e5beaeb32374278e10dc11853498d559",
-  "generated": "2025-06-30T19:42:35.771Z",
+  "commit": "c2812df2973cd99bb177671f7be30f8f01501d4f",
+  "generated": "2025-07-12T19:03:03.820Z",
   "metadata": [
     {
       "__outstatic": {
@@ -256,6 +256,22 @@
       "tags": [
       ],
       "title": "Life is good"
+    },
+    {
+      "__outstatic": {
+        "commit": "c2812df2973cd99bb177671f7be30f8f01501d4f",
+        "hash": "2265745379",
+        "path": "outstatic/content/dommer/this-dommer.mdx"
+      },
+      "author": {
+        "name": "bob@marl.com",
+        "picture": "https://google.com/image.jpg"
+      },
+      "collection": "dommer",
+      "publishedAt": "2025-07-12T18:39:49.335Z",
+      "slug": "this-dommer",
+      "status": "draft",
+      "title": "This dommer"
     }
   ]
 }
