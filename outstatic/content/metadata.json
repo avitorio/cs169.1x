@@ -1,6 +1,6 @@
 {
-  "commit": "c2812df2973cd99bb177671f7be30f8f01501d4f",
-  "generated": "2025-07-12T19:03:03.820Z",
+  "commit": "6ea0761cfe92c872821e5cdd1ba90d43b4aebdf1",
+  "generated": "2025-07-14T15:45:22.121Z",
   "metadata": [
     {
       "__outstatic": {
@@ -272,6 +272,22 @@
       "slug": "this-dommer",
       "status": "draft",
       "title": "This dommer"
+    },
+    {
+      "__outstatic": {
+        "commit": "6ea0761cfe92c872821e5cdd1ba90d43b4aebdf1",
+        "hash": "563056683",
+        "path": "outstatic/content/lovely/something-cool.mdx"
+      },
+      "author": {
+        "name": "bob@marl.com",
+        "picture": "https://google.com/image.jpg"
+      },
+      "collection": "lovely",
+      "publishedAt": "2025-07-14T15:27:00.940Z",
+      "slug": "something-cool",
+      "status": "draft",
+      "title": "Something cool"
     }
   ]
 }
