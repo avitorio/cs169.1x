@@ -1,6 +1,6 @@
 {
-  "commit": "6ea0761cfe92c872821e5cdd1ba90d43b4aebdf1",
-  "generated": "2025-07-14T15:45:22.121Z",
+  "commit": "613bfa92ae54041107c868d3809c149bb164c4ba",
+  "generated": "2025-07-15T15:38:30.673Z",
   "metadata": [
     {
       "__outstatic": {
@@ -288,6 +288,22 @@
       "slug": "something-cool",
       "status": "draft",
       "title": "Something cool"
+    },
+    {
+      "__outstatic": {
+        "commit": "613bfa92ae54041107c868d3809c149bb164c4ba",
+        "hash": "2426125572",
+        "path": "outstatic/content/mycol/can-i-write.mdx"
+      },
+      "author": {
+        "name": "bob@marl.com",
+        "picture": ""
+      },
+      "collection": "mycol",
+      "publishedAt": "2025-07-15T15:20:20.244Z",
+      "slug": "can-i-write",
+      "status": "draft",
+      "title": "Can I write"
     }
   ]
 }
