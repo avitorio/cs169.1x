@@ -1,6 +1,6 @@
 {
-  "commit": "613bfa92ae54041107c868d3809c149bb164c4ba",
-  "generated": "2025-07-15T15:38:30.673Z",
+  "commit": "99f4f17c3bc52ee2709244504d68f33af7e156f5",
+  "generated": "2025-07-15T19:38:56.576Z",
   "metadata": [
     {
       "__outstatic": {
@@ -304,6 +304,22 @@
       "slug": "can-i-write",
       "status": "draft",
       "title": "Can I write"
+    },
+    {
+      "__outstatic": {
+        "commit": "99f4f17c3bc52ee2709244504d68f33af7e156f5",
+        "hash": "3806225908",
+        "path": "outstatic/content/mycol/asdasd.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "mycol",
+      "publishedAt": "2025-07-15T19:20:52.421Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "title": "asdasd"
     }
   ]
 }
