@@ -1,6 +1,6 @@
 {
-  "commit": "0ca6597ce082e566125cec9ab51fe9c44eff52b5",
-  "generated": "2025-07-16T13:04:19.362Z",
+  "commit": "f8c063b7dbc086efbf12046404342a54ef51b6c0",
+  "generated": "2025-07-16T13:07:17.424Z",
   "metadata": [
     {
       "__outstatic": {
@@ -350,6 +350,22 @@
       "slug": "asdzzz",
       "status": "draft",
       "title": "asdzzz"
+    },
+    {
+      "__outstatic": {
+        "commit": "f8c063b7dbc086efbf12046404342a54ef51b6c0",
+        "hash": "2270195581",
+        "path": "outstatic/content/lovely/azzz.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "lovely",
+      "publishedAt": "2025-07-16T12:49:05.724Z",
+      "slug": "azzz",
+      "status": "draft",
+      "title": "azzz"
     }
   ]
 }
