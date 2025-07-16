@@ -1,6 +1,6 @@
 {
-  "commit": "3dc3d3080555fb335885bd88ad728e989f5856dc",
-  "generated": "2025-07-16T17:50:02.837Z",
+  "commit": "259c53733f8d85792a0e0ba08186663c34c76f5f",
+  "generated": "2025-07-16T17:50:31.537Z",
   "metadata": [
     {
       "__outstatic": {
@@ -422,6 +422,22 @@
       "slug": "hedoo",
       "status": "draft",
       "title": "hedoo"
+    },
+    {
+      "__outstatic": {
+        "commit": "259c53733f8d85792a0e0ba08186663c34c76f5f",
+        "hash": "1333150508",
+        "path": "outstatic/content/lovely/scream.mdx"
+      },
+      "author": {
+        "name": "",
+        "picture": ""
+      },
+      "collection": "lovely",
+      "publishedAt": "2025-07-16T17:32:24.454Z",
+      "slug": "scream",
+      "status": "draft",
+      "title": "scream"
     }
   ]
 }
