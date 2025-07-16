@@ -1,6 +1,6 @@
 {
-  "commit": "2aa3ef0dea30e78a15da42e86c244134d339a3a3",
-  "generated": "2025-07-16T12:55:18.964Z",
+  "commit": "c468780e18f694c5d4f3e31850567595a58407ea",
+  "generated": "2025-07-16T12:56:44.607Z",
   "metadata": [
     {
       "__outstatic": {
@@ -32,32 +32,6 @@
         }
       ],
       "title": "A good video",
-      "zombies": true
-    },
-    {
-      "__outstatic": {
-        "commit": "6363ba1b28e38a46e80135693c4cfbe6872d6b9a",
-        "hash": "978362288",
-        "path": "outstatic/content/videos/asdasd.mdx"
-      },
-      "asdasddasd": "asdasd",
-      "asdazzz": "",
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "categories": [
-      ],
-      "category": 3,
-      "collection": "videos",
-      "myNew": 0,
-      "publishedAt": "2025-06-27T16:58:56.740Z",
-      "slug": "asdasd",
-      "something": "asdasd",
-      "status": "draft",
-      "tags": [
-      ],
-      "title": "asdasd",
       "zombies": true
     },
     {
@@ -340,6 +314,26 @@
       "tags": [
       ],
       "title": "Yeah mee"
+    },
+    {
+      "__outstatic": {
+        "commit": "c468780e18f694c5d4f3e31850567595a58407ea",
+        "hash": "159735483",
+        "path": "outstatic/content/videos/asdasd.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-16T12:38:41.058Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "asdasd"
     }
   ]
 }
