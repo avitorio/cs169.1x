@@ -1,6 +1,6 @@
 {
-  "commit": "c468780e18f694c5d4f3e31850567595a58407ea",
-  "generated": "2025-07-16T12:56:44.607Z",
+  "commit": "0ca6597ce082e566125cec9ab51fe9c44eff52b5",
+  "generated": "2025-07-16T13:04:19.362Z",
   "metadata": [
     {
       "__outstatic": {
@@ -334,6 +334,22 @@
       "tags": [
       ],
       "title": "asdasd"
+    },
+    {
+      "__outstatic": {
+        "commit": "0ca6597ce082e566125cec9ab51fe9c44eff52b5",
+        "hash": "1145924270",
+        "path": "outstatic/content/mycol/asdzzz.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "mycol",
+      "publishedAt": "2025-07-16T12:46:14.705Z",
+      "slug": "asdzzz",
+      "status": "draft",
+      "title": "asdzzz"
     }
   ]
 }
