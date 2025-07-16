@@ -1,6 +1,6 @@
 {
-  "commit": "f8c063b7dbc086efbf12046404342a54ef51b6c0",
-  "generated": "2025-07-16T13:07:17.424Z",
+  "commit": "fdc5a68c7f5637064cc163a9cab55eac06275fd1",
+  "generated": "2025-07-16T13:19:09.956Z",
   "metadata": [
     {
       "__outstatic": {
@@ -366,6 +366,26 @@
       "slug": "azzz",
       "status": "draft",
       "title": "azzz"
+    },
+    {
+      "__outstatic": {
+        "commit": "fdc5a68c7f5637064cc163a9cab55eac06275fd1",
+        "hash": "1837325009",
+        "path": "outstatic/content/videos/zion.mdx"
+      },
+      "author": {
+        "name": "bob@marl.com",
+        "picture": ""
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-16T13:01:03.345Z",
+      "slug": "zion",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Zion"
     }
   ]
 }
