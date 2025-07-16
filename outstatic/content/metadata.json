@@ -1,6 +1,6 @@
 {
-  "commit": "fdc5a68c7f5637064cc163a9cab55eac06275fd1",
-  "generated": "2025-07-16T13:19:09.956Z",
+  "commit": "b5c4b010629dd4bec9afad17eae93249d65a60d8",
+  "generated": "2025-07-16T13:59:52.170Z",
   "metadata": [
     {
       "__outstatic": {
@@ -386,6 +386,26 @@
       "tags": [
       ],
       "title": "Zion"
+    },
+    {
+      "__outstatic": {
+        "commit": "b5c4b010629dd4bec9afad17eae93249d65a60d8",
+        "hash": "892060698",
+        "path": "outstatic/content/videos/aaaa.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-16T13:41:47.778Z",
+      "slug": "aaaa",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "aaaa"
     }
   ]
 }
