@@ -1,6 +1,6 @@
 {
-  "commit": "0ece23ae7a6590e30b589377d5bb1a481a9b5f90",
-  "generated": "2025-07-16T14:14:44.542Z",
+  "commit": "3dc3d3080555fb335885bd88ad728e989f5856dc",
+  "generated": "2025-07-16T17:50:02.837Z",
   "metadata": [
     {
       "__outstatic": {
@@ -406,6 +406,22 @@
       "tags": [
       ],
       "title": "aaaa"
+    },
+    {
+      "__outstatic": {
+        "commit": "3dc3d3080555fb335885bd88ad728e989f5856dc",
+        "hash": "2691469953",
+        "path": "outstatic/content/mycol/hedoo.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "mycol",
+      "publishedAt": "2025-07-16T17:31:51.207Z",
+      "slug": "hedoo",
+      "status": "draft",
+      "title": "hedoo"
     }
   ]
 }
