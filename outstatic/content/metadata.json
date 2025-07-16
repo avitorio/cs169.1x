@@ -1,6 +1,6 @@
 {
-  "commit": "99f4f17c3bc52ee2709244504d68f33af7e156f5",
-  "generated": "2025-07-15T19:38:56.576Z",
+  "commit": "2aa3ef0dea30e78a15da42e86c244134d339a3a3",
+  "generated": "2025-07-16T12:55:18.964Z",
   "metadata": [
     {
       "__outstatic": {
@@ -320,6 +320,26 @@
       "slug": "asdasd",
       "status": "draft",
       "title": "asdasd"
+    },
+    {
+      "__outstatic": {
+        "commit": "2aa3ef0dea30e78a15da42e86c244134d339a3a3",
+        "hash": "3714411761",
+        "path": "outstatic/content/videos/yeah-mee.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-16T12:37:12.468Z",
+      "slug": "yeah-mee",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Yeah mee"
     }
   ]
 }
