@@ -1,6 +1,6 @@
 {
-  "commit": "811efd7cf85bc0c705fb25b7e5956bae45f4017d",
-  "generated": "2025-07-17T12:01:08.454Z",
+  "commit": "4f6972416fe186bd346cb40aedc3d62611f56551",
+  "generated": "2025-07-17T12:18:07.495Z",
   "metadata": [
     {
       "__outstatic": {
@@ -458,6 +458,26 @@
       "tags": [
       ],
       "title": "Howdy"
+    },
+    {
+      "__outstatic": {
+        "commit": "4f6972416fe186bd346cb40aedc3d62611f56551",
+        "hash": "2161798106",
+        "path": "outstatic/content/videos/stop.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-17T12:00:01.847Z",
+      "slug": "stop",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Stop"
     }
   ]
 }
