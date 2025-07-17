@@ -1,6 +1,6 @@
 {
-  "commit": "259c53733f8d85792a0e0ba08186663c34c76f5f",
-  "generated": "2025-07-16T17:50:31.537Z",
+  "commit": "811efd7cf85bc0c705fb25b7e5956bae45f4017d",
+  "generated": "2025-07-17T12:01:08.454Z",
   "metadata": [
     {
       "__outstatic": {
@@ -438,6 +438,26 @@
       "slug": "scream",
       "status": "draft",
       "title": "scream"
+    },
+    {
+      "__outstatic": {
+        "commit": "811efd7cf85bc0c705fb25b7e5956bae45f4017d",
+        "hash": "3418061192",
+        "path": "outstatic/content/videos/howdy.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-17T11:43:01.995Z",
+      "slug": "howdy",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Howdy"
     }
   ]
 }
