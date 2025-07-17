@@ -1,6 +1,6 @@
 {
-  "commit": "538d595f36f5c6012b7651ca4b9b9f7f546eca60",
-  "generated": "2025-07-17T12:41:34.411Z",
+  "commit": "5d50682d9b94420f7f21556cae820ac1d8a98d76",
+  "generated": "2025-07-17T17:56:39.929Z",
   "metadata": [
     {
       "__outstatic": {
@@ -461,8 +461,8 @@
     },
     {
       "__outstatic": {
-        "commit": "538d595f36f5c6012b7651ca4b9b9f7f546eca60",
-        "hash": "2868495163",
+        "commit": "5d50682d9b94420f7f21556cae820ac1d8a98d76",
+        "hash": "1437120153",
         "path": "outstatic/content/videos/asdasd.mdx"
       },
       "author": {
