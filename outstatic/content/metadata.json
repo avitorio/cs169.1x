@@ -1,6 +1,6 @@
 {
-  "commit": "097b13932e481342214cefb708fbac60a3b51750",
-  "generated": "2025-07-24T19:09:39.207Z",
+  "commit": "d2a6cfcf32d202e27d4501d67770516a2ab74610",
+  "generated": "2025-07-24T19:35:14.543Z",
   "metadata": [
     {
       "__outstatic": {
@@ -518,6 +518,26 @@
       "tags": [
       ],
       "title": "zzza"
+    },
+    {
+      "__outstatic": {
+        "commit": "d2a6cfcf32d202e27d4501d67770516a2ab74610",
+        "hash": "1491694742",
+        "path": "outstatic/content/videos/ad.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-24T19:17:11.023Z",
+      "slug": "ad",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "ad"
     }
   ]
 }
