@@ -1,6 +1,6 @@
 {
-  "commit": "15ca77f140d7ff9b6a31d98ace81ee14072d09f6",
-  "generated": "2025-07-24T18:02:21.743Z",
+  "commit": "097b13932e481342214cefb708fbac60a3b51750",
+  "generated": "2025-07-24T19:09:39.207Z",
   "metadata": [
     {
       "__outstatic": {
@@ -498,6 +498,26 @@
       "tags": [
       ],
       "title": "Somewhere"
+    },
+    {
+      "__outstatic": {
+        "commit": "097b13932e481342214cefb708fbac60a3b51750",
+        "hash": "2604455558",
+        "path": "outstatic/content/videos/zzza.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-24T18:51:35.735Z",
+      "slug": "zzza",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "zzza"
     }
   ]
 }
