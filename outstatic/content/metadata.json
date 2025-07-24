@@ -1,6 +1,6 @@
 {
-  "commit": "4d3ffc32508ffb7568b21d07fa0554e6c03ab6de",
-  "generated": "2025-07-18T03:04:14.708Z",
+  "commit": "15ca77f140d7ff9b6a31d98ace81ee14072d09f6",
+  "generated": "2025-07-24T18:02:21.743Z",
   "metadata": [
     {
       "__outstatic": {
@@ -478,6 +478,26 @@
       "slug": "azzz",
       "status": "draft",
       "title": "azzz"
+    },
+    {
+      "__outstatic": {
+        "commit": "15ca77f140d7ff9b6a31d98ace81ee14072d09f6",
+        "hash": "1859563364",
+        "path": "outstatic/content/videos/somewhere.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-24T17:44:14.257Z",
+      "slug": "somewhere",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Somewhere"
     }
   ]
 }
