@@ -1,6 +1,6 @@
 {
-  "commit": "c6134a20b84ab999c28fdf9557edeb2b4ad94f05",
-  "generated": "2025-07-25T03:52:59.690Z",
+  "commit": "2abaa26f91ceff6552d5be5c50ebf4c976553aa0",
+  "generated": "2025-07-25T04:01:45.153Z",
   "metadata": [
     {
       "__outstatic": {
@@ -598,6 +598,26 @@
       "tags": [
       ],
       "title": "Hey jude"
+    },
+    {
+      "__outstatic": {
+        "commit": "2abaa26f91ceff6552d5be5c50ebf4c976553aa0",
+        "hash": "39978874",
+        "path": "outstatic/content/videos/heyouuu.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T03:43:37.420Z",
+      "slug": "heyouuu",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Heyouuu"
     }
   ]
 }
