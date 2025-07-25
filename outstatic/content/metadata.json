@@ -1,6 +1,6 @@
 {
-  "commit": "2abaa26f91ceff6552d5be5c50ebf4c976553aa0",
-  "generated": "2025-07-25T04:01:45.153Z",
+  "commit": "2fffae0b6ab5f546757905cf0eedd1a3dfe82af4",
+  "generated": "2025-07-25T04:12:31.451Z",
   "metadata": [
     {
       "__outstatic": {
@@ -618,6 +618,26 @@
       "tags": [
       ],
       "title": "Heyouuu"
+    },
+    {
+      "__outstatic": {
+        "commit": "2fffae0b6ab5f546757905cf0eedd1a3dfe82af4",
+        "hash": "3340600378",
+        "path": "outstatic/content/videos/asaaaa.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T03:54:26.562Z",
+      "slug": "asaaaa",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "asaaaa"
     }
   ]
 }
