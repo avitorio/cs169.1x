@@ -1,6 +1,6 @@
 {
-  "commit": "2fffae0b6ab5f546757905cf0eedd1a3dfe82af4",
-  "generated": "2025-07-25T04:12:31.451Z",
+  "commit": "22c9bbb512e866edf4e2fffca1139c703df26702",
+  "generated": "2025-07-25T11:26:31.445Z",
   "metadata": [
     {
       "__outstatic": {
@@ -638,6 +638,26 @@
       "tags": [
       ],
       "title": "asaaaa"
+    },
+    {
+      "__outstatic": {
+        "commit": "22c9bbb512e866edf4e2fffca1139c703df26702",
+        "hash": "3521585747",
+        "path": "outstatic/content/videos/didit.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T11:08:25.205Z",
+      "slug": "didit",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Didit"
     }
   ]
 }
