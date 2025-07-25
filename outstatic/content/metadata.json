@@ -1,6 +1,6 @@
 {
-  "commit": "d2a6cfcf32d202e27d4501d67770516a2ab74610",
-  "generated": "2025-07-24T19:35:14.543Z",
+  "commit": "23666b28cf32e0701b0d4080a8b01f1aa79a1427",
+  "generated": "2025-07-25T01:37:08.501Z",
   "metadata": [
     {
       "__outstatic": {
@@ -281,22 +281,6 @@
     },
     {
       "__outstatic": {
-        "commit": "99f4f17c3bc52ee2709244504d68f33af7e156f5",
-        "hash": "3806225908",
-        "path": "outstatic/content/mycol/asdasd.mdx"
-      },
-      "author": {
-        "name": "Andre Vitorio",
-        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
-      },
-      "collection": "mycol",
-      "publishedAt": "2025-07-15T19:20:52.421Z",
-      "slug": "asdasd",
-      "status": "draft",
-      "title": "asdasd"
-    },
-    {
-      "__outstatic": {
         "commit": "2aa3ef0dea30e78a15da42e86c244134d339a3a3",
         "hash": "3714411761",
         "path": "outstatic/content/videos/yeah-mee.mdx"
@@ -538,6 +522,22 @@
       "tags": [
       ],
       "title": "ad"
+    },
+    {
+      "__outstatic": {
+        "commit": "23666b28cf32e0701b0d4080a8b01f1aa79a1427",
+        "hash": "1859546159",
+        "path": "outstatic/content/mycol/asdasd.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "collection": "mycol",
+      "publishedAt": "2025-07-25T01:19:02.412Z",
+      "slug": "asdasd",
+      "status": "draft",
+      "title": "asdasd"
     }
   ]
 }
