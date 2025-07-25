@@ -1,6 +1,6 @@
 {
-  "commit": "de13e882e82bbe1656b5fa497e6ca943a79ac57e",
-  "generated": "2025-07-25T02:58:37.752Z",
+  "commit": "c60759e8a9162e6f5b6ac518f3abf4d40ce94294",
+  "generated": "2025-07-25T03:51:40.933Z",
   "metadata": [
     {
       "__outstatic": {
@@ -558,6 +558,26 @@
       "slug": "asdasd",
       "status": "draft",
       "title": "asdasdxx"
+    },
+    {
+      "__outstatic": {
+        "commit": "c60759e8a9162e6f5b6ac518f3abf4d40ce94294",
+        "hash": "3365705854",
+        "path": "outstatic/content/videos/this-works.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T03:33:33.451Z",
+      "slug": "this-works",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "This works"
     }
   ]
 }
