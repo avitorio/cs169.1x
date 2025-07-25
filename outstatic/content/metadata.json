@@ -1,6 +1,6 @@
 {
-  "commit": "ca1fe2d0669b7c958709fe8029e2750ba35c372b",
-  "generated": "2025-07-25T11:32:46.051Z",
+  "commit": "197904f6d7becf2ec933863fe9ab134489a9f340",
+  "generated": "2025-07-25T11:33:27.325Z",
   "metadata": [
     {
       "__outstatic": {
@@ -681,8 +681,8 @@
     },
     {
       "__outstatic": {
-        "commit": "ca1fe2d0669b7c958709fe8029e2750ba35c372b",
-        "hash": "3578734072",
+        "commit": "197904f6d7becf2ec933863fe9ab134489a9f340",
+        "hash": "1314681442",
         "path": "outstatic/content/videos/let-me-find-it.mdx"
       },
       "author": {
@@ -694,7 +694,7 @@
       "collection": "videos",
       "publishedAt": "2025-07-25T11:14:30.776Z",
       "slug": "let-me-find-it",
-      "status": "draft",
+      "status": "published",
       "tags": [
       ],
       "title": "Let me find it"
