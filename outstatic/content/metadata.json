@@ -1,6 +1,6 @@
 {
-  "commit": "197904f6d7becf2ec933863fe9ab134489a9f340",
-  "generated": "2025-07-25T11:33:27.325Z",
+  "commit": "299d0fa75c208b1329afdf63fb3493227cbe0ff3",
+  "generated": "2025-07-25T16:25:57.702Z",
   "metadata": [
     {
       "__outstatic": {
@@ -698,6 +698,26 @@
       "tags": [
       ],
       "title": "Let me find it"
+    },
+    {
+      "__outstatic": {
+        "commit": "299d0fa75c208b1329afdf63fb3493227cbe0ff3",
+        "hash": "3499516580",
+        "path": "outstatic/content/videos/zoomer.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T16:07:49.672Z",
+      "slug": "zoomer",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "zoomer"
     }
   ]
 }
