@@ -1,6 +1,6 @@
 {
-  "commit": "22c9bbb512e866edf4e2fffca1139c703df26702",
-  "generated": "2025-07-25T11:26:31.445Z",
+  "commit": "e1cb1115a22540f8a6b304934dd2ded1aa106891",
+  "generated": "2025-07-25T11:27:12.274Z",
   "metadata": [
     {
       "__outstatic": {
@@ -658,6 +658,26 @@
       "tags": [
       ],
       "title": "Didit"
+    },
+    {
+      "__outstatic": {
+        "commit": "e1cb1115a22540f8a6b304934dd2ded1aa106891",
+        "hash": "3138140983",
+        "path": "outstatic/content/videos/loving.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T11:08:46.637Z",
+      "slug": "loving",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Loving"
     }
   ]
 }
