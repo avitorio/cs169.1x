@@ -1,6 +1,6 @@
 {
-  "commit": "e1cb1115a22540f8a6b304934dd2ded1aa106891",
-  "generated": "2025-07-25T11:27:12.274Z",
+  "commit": "ca1fe2d0669b7c958709fe8029e2750ba35c372b",
+  "generated": "2025-07-25T11:32:46.051Z",
   "metadata": [
     {
       "__outstatic": {
@@ -678,6 +678,26 @@
       "tags": [
       ],
       "title": "Loving"
+    },
+    {
+      "__outstatic": {
+        "commit": "ca1fe2d0669b7c958709fe8029e2750ba35c372b",
+        "hash": "3578734072",
+        "path": "outstatic/content/videos/let-me-find-it.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T11:14:30.776Z",
+      "slug": "let-me-find-it",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "Let me find it"
     }
   ]
 }
