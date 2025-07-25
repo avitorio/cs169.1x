@@ -1,6 +1,6 @@
 {
-  "commit": "23666b28cf32e0701b0d4080a8b01f1aa79a1427",
-  "generated": "2025-07-25T01:37:08.501Z",
+  "commit": "9dde4cea048c0c0dbd4c6a46d29342152a15a3ad",
+  "generated": "2025-07-25T02:16:43.840Z",
   "metadata": [
     {
       "__outstatic": {
@@ -538,6 +538,26 @@
       "slug": "asdasd",
       "status": "draft",
       "title": "asdasd"
+    },
+    {
+      "__outstatic": {
+        "commit": "9dde4cea048c0c0dbd4c6a46d29342152a15a3ad",
+        "hash": "48897869",
+        "path": "outstatic/content/videos/zombie-land.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "categories": [
+      ],
+      "collection": "videos",
+      "publishedAt": "2025-07-25T01:58:36.171Z",
+      "slug": "zombie-land",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "zombie land"
     }
   ]
 }
