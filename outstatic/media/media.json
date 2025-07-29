@@ -1,6 +1,6 @@
 {
-  "commit": "0ece23ae7a6590e30b589377d5bb1a481a9b5f90",
-  "generated": "2025-07-16T14:14:44.542Z",
+  "commit": "dd5b32e80892fece333c247cb388353309c15a4b",
+  "generated": "2025-07-29T21:09:52.837Z",
   "media": [
     {
       "__outstatic": {
@@ -11,17 +11,6 @@
       "alt": "",
       "filename": "0acd0607-491a-48e4-8e17-676a81ce4c55-I3OT.webp",
       "publishedAt": "2025-06-26T18:40:41.633Z",
-      "type": "image"
-    },
-    {
-      "__outstatic": {
-        "commit": "0ece23ae7a6590e30b589377d5bb1a481a9b5f90",
-        "hash": "4050946533",
-        "path": "outstatic/media/check-AyMj.png"
-      },
-      "alt": "",
-      "filename": "check-AyMj.png",
-      "publishedAt": "2025-07-16T14:14:44.541Z",
       "type": "image"
     }
   ]
