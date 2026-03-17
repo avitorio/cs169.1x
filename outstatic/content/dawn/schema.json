@@ -30,6 +30,12 @@
           "value": "money"
         }
       ]
+    },
+    "yEah": {
+      "title": "YEah",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "values": []
     }
   }
 }
