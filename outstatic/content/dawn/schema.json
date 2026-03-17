@@ -9,6 +9,7 @@
     },
     "category": {
       "title": "Category",
+      "required": false,
       "fieldType": "Select",
       "dataType": "string",
       "values": [
@@ -19,6 +20,10 @@
         {
           "label": "Cars",
           "value": "cars"
+        },
+        {
+          "label": "Bikes",
+          "value": "bikes"
         }
       ]
     }
