@@ -6,6 +6,21 @@
       "fieldType": "Text",
       "dataType": "string",
       "title": "Somber"
+    },
+    "category": {
+      "title": "Category",
+      "fieldType": "Select",
+      "dataType": "string",
+      "values": [
+        {
+          "label": "Boats",
+          "value": "boats"
+        },
+        {
+          "label": "Cars",
+          "value": "cars"
+        }
+      ]
     }
   }
 }
