@@ -35,7 +35,20 @@
       "title": "YEah",
       "fieldType": "Tags",
       "dataType": "array",
-      "values": []
+      "values": [
+        {
+          "value": "one",
+          "label": "One"
+        },
+        {
+          "value": "sometingGood",
+          "label": "Someting good"
+        },
+        {
+          "value": "yeah",
+          "label": "Yeah"
+        }
+      ]
     }
   }
 }

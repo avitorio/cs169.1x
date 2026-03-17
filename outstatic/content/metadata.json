@@ -1,6 +1,6 @@
 {
-  "commit": "aa5d776f48f35ad2604d0fd148de2d843e859d8a",
-  "generated": "2025-07-31T20:35:26.748Z",
+  "commit": "efb8727e000997c343c5237399c3e1082980f3ef",
+  "generated": "2026-03-17T18:04:46.778Z",
   "metadata": [
     {
       "__outstatic": {
@@ -718,6 +718,37 @@
       "tags": [
       ],
       "title": "asaaaa"
+    },
+    {
+      "__outstatic": {
+        "commit": "efb8727e000997c343c5237399c3e1082980f3ef",
+        "hash": "2378630298",
+        "path": "outstatic/content/dawn/my-dawn.mdx"
+      },
+      "author": {
+        "name": "Andre Vitorio",
+        "picture": "https://avatars.githubusercontent.com/u/1417109?v=4"
+      },
+      "category": "bikes",
+      "collection": "dawn",
+      "publishedAt": "2026-03-17T17:45:23.820Z",
+      "slug": "my-dawn",
+      "status": "draft",
+      "title": "My dawn",
+      "yEah": [
+        {
+          "label": "One",
+          "value": "one"
+        },
+        {
+          "label": "Someting good",
+          "value": "sometingGood"
+        },
+        {
+          "label": "Yeah",
+          "value": "yeah"
+        }
+      ]
     }
   ]
 }
